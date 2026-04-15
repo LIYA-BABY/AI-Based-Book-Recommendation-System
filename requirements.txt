@@ -1,0 +1,33 @@
+tensorflow
+scikit-learn
+pandas
+numpy
+keras
+tf-keras
+transformers
+torch
+streamlit
+papermill
+
+
+
+
+
+
+
+
+# Embedding converts each word into a 128-dimension vector representation.
+# CNN extracts important patterns from text sequences.
+# A fully connected layer that learns complex relationships.
+# Randomly drops 50% neurons during training to prevent overfitting.
+# Final output layer predicting one continuous rating value.
+
+
+# Find the index of the given book title in the dataset.
+
+# Get similarity scores between this book and all other books.
+
+# Sort the scores from highest similarity to lowest.
+
+# Select top 10 similar books.
+# The CNN model uses the book description to predict rating
