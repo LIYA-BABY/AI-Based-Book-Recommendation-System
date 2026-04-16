@@ -1,4 +1,16 @@
+
 streamlit
+numpy
+pandas
+scikit-learn
+tensorflow-cpu==2.12.0
+pillow
+
+
+
+
+
+#streamlit
 numpy
 pandas
 scikit-learn
@@ -6,14 +18,7 @@ tensorflow==2.15.0
 matplotlib
 seaborn
 pillow
-papermill
-
-
-
-
-
-
-# Embedding converts each word into a 128-dimension vector representation.
+papermill Embedding converts each word into a 128-dimension vector representation.
 # CNN extracts important patterns from text sequences.
 # A fully connected layer that learns complex relationships.
 # Randomly drops 50% neurons during training to prevent overfitting.
