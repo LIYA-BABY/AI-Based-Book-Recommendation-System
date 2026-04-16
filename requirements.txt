@@ -3,7 +3,7 @@ numpy
 pandas
 scikit-learn
 tensorflow
-pillow
+torch
 
 # Embedding converts each word into a 128-dimension vector representation.
 # CNN extracts important patterns from text sequences.
