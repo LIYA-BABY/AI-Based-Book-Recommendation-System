@@ -1,9 +1,13 @@
-streamlit
-numpy
-pandas
-scikit-learn
 tensorflow
+scikit-learn
+pandas
+numpy
+keras
+tf-keras
+transformers
 torch
+streamlit
+papermill
 
 # Embedding converts each word into a 128-dimension vector representation.
 # CNN extracts important patterns from text sequences.
